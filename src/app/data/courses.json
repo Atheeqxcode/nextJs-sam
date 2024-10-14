@@ -1,0 +1,131 @@
+{
+    "courses": [
+      {
+        "id": 2,
+        "title": "Web Development Bootcamp",
+        "slug": "web-development-bootcamp",
+        "description": "Become a full-stack web developer by learning HTML, CSS, JavaScript, and more.",
+        "price": 199.99,
+        "instructor": "Jane Smith",
+        "isFeatured": true
+      },
+      {
+        "id": 3,
+        "title": "Data Science A-Z",
+        "slug": "data-science-a-z",
+        "description": "Master data science from scratch with hands-on projects and real-world examples.",
+        "price": 299.99,
+        "instructor": "Alice Johnson",
+        "isFeatured": true
+      },
+      {
+        "id": 4,
+        "title": "Database Management Systems",
+        "slug": "dbms",
+        "description": "Understand the fundamentals of DBMS and SQL through practical examples.",
+        "price": 149.99,
+        "instructor": "Bob Brown",
+        "isFeatured": false
+      },
+      {
+        "id": 5,
+        "title": "Data Structures and Algorithms",
+        "slug": "dsa",
+        "description": "Learn the essential data structures and algorithms for coding interviews.",
+        "price": 129.99,
+        "instructor": "Emily Davis",
+        "isFeatured": true
+      },
+      {
+        "id": 6,
+        "title": "Machine Learning Masterclass",
+        "slug": "machine-learning-masterclass",
+        "description": "Dive into machine learning with Python and build predictive models.",
+        "price": 249.99,
+        "instructor": "Michael Wilson",
+        "isFeatured": true
+      },
+      {
+        "id": 7,
+        "title": "React - The Complete Guide",
+        "slug": "react-complete-guide",
+        "description": "Learn React.js from scratch and build powerful web applications.",
+        "price": 199.99,
+        "instructor": "Sarah Martinez",
+        "isFeatured": false
+      },
+      {
+        "id": 8,
+        "title": "JavaScript Essentials",
+        "slug": "javascript-essentials",
+        "description": "Get a solid understanding of JavaScript, the programming language of the web.",
+        "price": 99.99,
+        "instructor": "David Lee",
+        "isFeatured": false
+      },
+      {
+        "id": 9,
+        "title": "Introduction to Cybersecurity",
+        "slug": "cybersecurity",
+        "description": "Learn the basics of cybersecurity and how to protect networks and systems.",
+        "price": 179.99,
+        "instructor": "Laura Hall",
+        "isFeatured": true
+      },
+      {
+        "id": 10,
+        "title": "Mobile App Development with Flutter",
+        "slug": "flutter-app-development",
+        "description": "Build beautiful, natively compiled applications for mobile from a single codebase.",
+        "price": 199.99,
+        "instructor": "Chris Clark",
+        "isFeatured": false
+      },
+      {
+        "id": 11,
+        "title": "Cloud Computing Essentials",
+        "slug": "cloud-computing",
+        "description": "Explore the fundamentals of cloud computing and its applications.",
+        "price": 149.99,
+        "instructor": "Jessica Lewis",
+        "isFeatured": false
+      },
+      {
+        "id": 12,
+        "title": "Digital Marketing Mastery",
+        "slug": "digital-marketing-mastery",
+        "description": "Learn the secrets of digital marketing and how to promote your business online.",
+        "price": 149.99,
+        "instructor": "Mark Young",
+        "isFeatured": true
+      },
+      {
+        "id": 13,
+        "title": "DevOps Fundamentals",
+        "slug": "devops-fundamentals",
+        "description": "Understand the key concepts of DevOps and how to improve collaboration and productivity.",
+        "price": 199.99,
+        "instructor": "Sandra Green",
+        "isFeatured": false
+      },
+      {
+        "id": 14,
+        "title": "Artificial Intelligence Basics",
+        "slug": "ai-basics",
+        "description": "Get introduced to AI concepts and learn how to implement simple AI algorithms.",
+        "price": 129.99,
+        "instructor": "Robert King",
+        "isFeatured": false
+      },
+      {
+        "id": 15,
+        "title": "Full-Stack Web Development",
+        "slug": "full-stack-web-development",
+        "description": "Learn how to build complete web applications from front to back using MERN stack.",
+        "price": 299.99,
+        "instructor": "Alice Johnson",
+        "isFeatured": true
+      }
+    ]
+  }
+  
