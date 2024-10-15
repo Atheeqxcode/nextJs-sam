@@ -4,6 +4,10 @@ import HeroSection from "./components/HeroSection";
 import FeaturedCourses from "./components/FeaturedCourses";
 import WhyChooseUs from "./components/WhyChooseUs";
 import Testiscard from "./components/Testiscard";
+// import Events from "./components/ui/Events";
+import { MacbookScrollDemo } from "./components/MacbookScrollDemo";
+// import { PinContainer } from "./components/ui/3d-pin";
+
 
 export default function Home() {
   return (
@@ -11,8 +15,14 @@ export default function Home() {
     bg-grid-white/[0.04]">
   <HeroSection />
   <FeaturedCourses/>
+  <MacbookScrollDemo/>
   <WhyChooseUs/>
   <Testiscard/>
+  
+  
+  
+ 
+
     </main>
   );
 }
